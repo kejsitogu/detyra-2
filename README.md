@@ -1,1 +1,8 @@
 # detyra-2
+për të përmirësuar përvojën e klientëve. Mund të punësojë më shumë staf gjatë fundjavave për të ofruar shërbim më të shpejtë. Gjithashtu, mund të përpiqet të ulë nivelin e zhurmës dhe të krijojë një ambient më të qetë e më të rehatshëm. Një tjetër mundësi është të ofrojë disa pjata me çmime më të përballueshme.
+3. A ka diçka që restoranti po bën që rrit opinionet negative?
+Po. Faktorët kryesorë që ndikojnë në opinionet negative janë shërbimi i ngadaltë gjatë fundjavave, zhurma e lartë kur restoranti është plot dhe çmimet e shtrenjta. Gjithashtu, ambienti i jashtëm nuk është i përshtatshëm gjatë dimrit për shkak të temperaturave të ulëta. Këto probleme mund të bëjnë që klientët të mos jenë plotësisht të kënaqur dhe të mos e vizitojnë restorantin shpesh.
+4. Çfarë ndryshimesh do t'i rekomandonit restorantit?
+Do t'i rekomandoja restorantit të punësojë punonjës shtesë gjatë periudhave me shumë klientë, të përmirësojë ambientin duke ulur zhurmën dhe të ofrojë pjata me çmime më të arsyeshme ose ulje të veçanta. Gjithashtu, do të ishte mirë të vendoste ngrohëse në ambientin e jashtëm gjatë muajve të ftohtë. Së fundi, restoranti mund të inkurajojë klientët të bëjnë rezervime paraprakisht për të shmangur pritjet e gjata.
+Prompt-i i përdorur në AI
+"Analizo komentin e restorantit duke përdorur analizën e sentimentit. Identifiko opinionet pozitive dhe negative, vlerëso përshtypjen e përgjithshme të klientit dhe sugjero ndryshime që mund ta ndihmojnë restorantin të përmirësojë përvojën e klientëve dhe të tërheqë më shumë klientë."
